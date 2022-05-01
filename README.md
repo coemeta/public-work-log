@@ -18,6 +18,8 @@ The log is mirrored at: [Github](https://github.com/coemeta/public-work-log) (pr
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by] [![CC BY 4.0][cc-by-image]][cc-by]
 
+🙏🏼 Support Coεmeta's public benefit work with a donation via [ko-fi](https://ko-fi.com/coemeta) or [paypal](https://www.paypal.com/donate/?hosted_button_id=7W4M66QGW3LT8)! 
+
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
