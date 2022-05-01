@@ -4,6 +4,8 @@
 
 This is the **Public Work Log** of [Coεmeta](https://coemeta.xyz), a Public Benefit LLC providing data & sensemaking services with positive externalities. It's intended as a window into our journey & playbook as it develops, in the spirit of **[working in public](https://nesslabs.com/work-in-public)**, contributing to **[knowledge commons](https://en.wikipedia.org/wiki/Knowledge_commons)**, "**finding the others**" & **leaving a trail + some resources** for those that follow. 
 
+It complements our [Open Source Strategy repo](https://github.com/coemeta/open-source-strategy), which offers more discrete, version-controlled resources including most of the strategic frameworks covered here in more narrative form.
+
 The log is mirrored at: [Github](https://github.com/coemeta/public-work-log) (primary source & version control) & [Roam Research](https://roamresearch.com/#/app/coemeta/page/8hblWWLSN) (networked outliner knowledge graph).
 
 ### Log entries:
