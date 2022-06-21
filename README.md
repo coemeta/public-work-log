@@ -2,7 +2,7 @@
 
 # Coεmeta Public Work Log
 
-This is the **Public Work Log** of [Coεmeta](https://coemeta.xyz), a Public Benefit LLC providing data & sensemaking services with positive externalities. It's intended as a window into our journey & playbook as it develops, in the spirit of **[working in public](https://nesslabs.com/work-in-public)**, contributing to **[knowledge commons](https://en.wikipedia.org/wiki/Knowledge_commons)**, "**finding the others**" & **leaving a trail + some resources** for those that follow. 
+This is the **Public Work Log** of [Coεmeta](https://coemeta.xyz), a Public Benefit company providing data & sensemaking services with positive externalities. It's intended as a window into our journey & playbook as it develops, in the spirit of **[working in public](https://nesslabs.com/work-in-public)**, contributing to **[knowledge commons](https://en.wikipedia.org/wiki/Knowledge_commons)**, "**finding the others**" & **leaving a trail + some resources** for those that follow. 
 
 It complements our [Open Source Strategy repo](https://github.com/coemeta/open-source-strategy), which offers more discrete, version-controlled resources including most of the strategic frameworks covered here in more narrative form.
 
