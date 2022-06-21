@@ -11,6 +11,7 @@ The log is mirrored at: [Github](https://github.com/coemeta/public-work-log) (pr
 ### Log entries:
 
   - [2022.0.VEU — Foundations & Emergence](https://github.com/coemeta/public-work-log/blob/main/2022.0.veu.md)
+  - [2022.1.MSU — Cultivation & Harvest Szn](https://github.com/coemeta/public-work-log/blob/main/2022.1.msu.md)
 
 
 ---
