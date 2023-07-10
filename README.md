@@ -17,7 +17,8 @@ The log is mirrored at: [Github](https://github.com/coemeta/public-work-log) (pr
   - [2022.3.WSU — Cycle Completion](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md)
   
  **2023**
-  - [2022.0.VEU — A New Cycle](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md)
+  - [2023.0.VEU — A New Cycle](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md)
+  - [2023.1.MSU — Reinvesting the Harvest](https://github.com/coemeta/public-work-log/blob/main/2023.1.msu.md)
 
 
 ---
