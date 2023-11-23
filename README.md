@@ -10,15 +10,10 @@ The log is mirrored at: [Github](https://github.com/coemeta/public-work-log) (pr
 
 ### Log entries:
 
-**2022**
   - [2022.0.VEU — Foundations & Emergence](https://github.com/coemeta/public-work-log/blob/main/2022.0.veu.md)
   - [2022.1.MSU — Cultivation & Harvest Szn](https://github.com/coemeta/public-work-log/blob/main/2022.1.msu.md)
   - [2022.2.AEU — Vacation & Re(a)lation](https://github.com/coemeta/public-work-log/blob/main/2022.2.aeu.md)
   - [2022.3.WSU — Cycle Completion](https://github.com/coemeta/public-work-log/blob/main/2022.3.wsu.md)
-  
- **2023**
-  - [2023.0.VEU — A New Cycle](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md)
-  - [2023.1.MSU — Reinvesting the Harvest](https://github.com/coemeta/public-work-log/blob/main/2023.1.msu.md)
 
 
 ---
