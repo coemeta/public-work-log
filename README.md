@@ -19,7 +19,7 @@ The log is mirrored at: [Github](https://github.com/coemeta/public-work-log) (pr
  **2023**
   - [2023.0.VEU — A New Cycle](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md)
   - [2023.1.MSU — Reinvesting the Harvest](https://github.com/coemeta/public-work-log/blob/main/2023.1.msu.md)
-  - [2023.0.VEU — Living the Metagame](https://github.com/coemeta/public-work-log/blob/main/2023.2.aeu.md)
+  - [2023.2.AEU — Living the Metagame](https://github.com/coemeta/public-work-log/blob/main/2023.2.aeu.md)
 ---
 
 This work is licensed under a
