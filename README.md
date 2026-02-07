@@ -20,6 +20,11 @@ The log is mirrored at: [Github](https://github.com/coemeta/public-work-log) (pr
   - [2023.0.VEU — A New Cycle](https://github.com/coemeta/public-work-log/blob/main/2023.0.veu.md)
   - [2023.1.MSU — Reinvesting the Harvest](https://github.com/coemeta/public-work-log/blob/main/2023.1.msu.md)
   - [2023.2.AEU — Living the Metagame](https://github.com/coemeta/public-work-log/blob/main/2023.2.aeu.md)
+  - [2023.3.WSU — Relational Pilgrimage](https://github.com/coemeta/public-work-log/blob/main/2023.3.wsu.md)
+
+**2024 - 2025**
+  - [2024-2025.WSU — Detours & Return to Dreaming](https://github.com/coemeta/public-work-log/blob/main/2024-2025.wsu.md)
+
 ---
 
 This work is licensed under a
